@@ -1,2 +1,2 @@
 ### Software Engineering - certific
-![Advance Sofrware Engineering](Carnegie_Mellon.PNG) 
+![Advance Sofrware Engineering](Carnegie_Mellon.png) 
